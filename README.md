@@ -9,13 +9,12 @@ The definition of a "fair grade" is if the difference between the highest and lo
 
 Pseudocode below: 
 
-# of Students: 
-4
+Number of Students: 4
 
-# of Grades: 
-4
+Number of Grades: 4
 
 Quiz grades:
+
 70 80 90 90 < student 1's grades
 ---------------------------------
 80 80 80 80 < student 2's grades
@@ -26,6 +25,7 @@ Quiz grades:
 ---------------------------------
 
 The output will be:
+
 80.0 < student 1
 ----------------
 80.0 < student 2
